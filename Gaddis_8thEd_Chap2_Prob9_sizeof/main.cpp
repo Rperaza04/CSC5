@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     bool g;
     float h;
     double i;//This just gave you an FFFFFFFFF
-    long double j;
+    long double j;//This just gave me an even bigger F!!! Sorry!
     long k;
     unsigned long l;
     
